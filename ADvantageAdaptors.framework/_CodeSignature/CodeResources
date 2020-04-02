@@ -8,9 +8,9 @@
 		<data>
 		hQgoxlXNAUuyMWGH0RG5aa6EYkA=
 		</data>
-		<key>Headers/AdvantageTeadsAdaptor.m</key>
+		<key>Headers/AdvantageTeadsAdaptor.h</key>
 		<data>
-		F5NQuu1tjCUhkXUn/QnXbH5RH7Q=
+		R5euJPgwO8nrn8d5AMSjikfJJTI=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -30,11 +30,11 @@
 			fQmg9n21i9u8jmgvrE9X1kCpQh9PWgl09Vr4TgDDb8M=
 			</data>
 		</dict>
-		<key>Headers/AdvantageTeadsAdaptor.m</key>
+		<key>Headers/AdvantageTeadsAdaptor.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1FNnqNmGbAAvG3kB5Ar983O2ezPFbLbmocFyYmT4Rc4=
+			m+ZYNrD08PsHwzEZfqq8bGQegl85PzMuqt5/E9bO1+M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
