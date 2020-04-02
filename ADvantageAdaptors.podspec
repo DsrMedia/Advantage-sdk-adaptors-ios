@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   s.source     = {
       :http => 'https://github.com/DsrMedia/Advantage-sdk-adaptors-ios/raw/master/ADvantageAdaptors.zip'
   }
-  s.source_files = 'AdvantageAdaptors.framework/Headers/*.h'
-  s.exclude_files = 'AdvantageAdaptors.framework/*.plist'
+  s.source_files = 'ADvantageAdaptors.framework/Headers/*.h'
+  s.exclude_files = 'ADvantageAdaptors.framework/*.plist'
   s.ios.deployment_target = '12.0'
-  s.ios.vendored_framework = 'AdvantageAdaptors.framework'
+  s.ios.vendored_framework = 'ADvantageAdaptors.framework'
 end
