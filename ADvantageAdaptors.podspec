@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name       = 'ADvantage Adaptors'
+  s.name       = 'ADvantageAdaptors'
   s.version    = '1.0.0'
   s.license = {
       :type => 'BSD',
@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   s.source     = {
       :http => 'https://github.com/DsrMedia/Advantage-SDK-ios/raw/master/Advantage.zip'
   }
-  s.source_files = 'AdvantageAdaptor.framework/Headers/*.h'
-  s.exclude_files = 'AdvantageAdaptor.framework/*.plist'
+  s.source_files = 'ADvantageAdaptors.framework/Headers/*.h'
+  s.exclude_files = 'ADvantageAdaptors.framework/*.plist'
   s.ios.deployment_target = '12.0'
-  s.ios.vendored_framework = 'AdvantageAdaptor.framework'
+  s.ios.vendored_framework = 'ADvantageAdaptors.framework'
 end
