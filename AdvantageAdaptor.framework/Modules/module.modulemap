@@ -1,0 +1,6 @@
+framework module AdvantageAdaptor {
+  umbrella header "AdvantageAdaptor.h"
+
+  export *
+  module * { export * }
+}
