@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
       'Digitalsunray Media GmbH' => 'advantage@digitalsunray.com'
   }
   s.source     = {
-      :git => 'https://github.com/DsrMedia/Advantage-sdk-adaptors-ios/raw/master/AdvantageAdaptors.zip'
+      :http => 'https://github.com/DsrMedia/Advantage-sdk-adaptors-ios/raw/master/AdvantageAdaptors.zip'
   }
   s.source_files = 'AdvantageAdaptors.framework/Headers/*.h'
   s.exclude_files = 'AdvantageAdaptors.framework/*.plist'
