@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   }
   s.platform   = :ios
   s.requires_arc = true
-  s.summary    = 'ADvantage Adaptors - the innovative, rich media mobile advertising platform.'
+  s.summary    = 'ADvantage Adaptors - the new way to deliver banners.'
   s.homepage   = "http://docs.advantage-adsolution.com/"
   s.license    = "All rights reserved."
   s.author     = {
